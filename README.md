@@ -1,4 +1,3 @@
-# ⚡ Seneo Lab
 ![Banner](banner.png)
 > *Browser games, useful web tools, streaming overlays, and software projects.*
 
